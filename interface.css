@@ -1,0 +1,40 @@
+body{
+    margin: 0px;
+    background-color: #fff7ee;
+}
+header{
+    display: flex;
+    background-color: #3c4e69;
+    align-items: center;
+    border-bottom: solid 10px #8ba4d5;
+}
+button{
+    border: 0px;
+    cursor: pointer;
+}
+.divPrincipalCabecalho{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 140px;
+    width: 70%;
+}
+.sunsetBank{
+    font-size: 70px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 5px;
+    padding-left: 10px;
+    border-bottom: 10px solid black;
+    border-top: 10px solid black;
+}
+.divLateralCabecalho{
+    background-color: #8ba4d5;
+    height: 100%;
+    width: 70px;
+    display: flex;
+}
+.botaoPerfil{
+    background-color: #8ba4d5;
+    justify-content: center;
+    align-items: center;
+}
